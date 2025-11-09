@@ -271,7 +271,7 @@ I'm always excited to collaborate on innovative projects, especially in:
 <div align="center">
   
 ### 💭 **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
-
+  
 **⭐ If you like my projects, consider starring them! It motivates me to keep building awesome stuff.**
 
 </div>
