@@ -1,3 +1,53 @@
+<!-- Designer Dashboard Hero Card -->
+<p align="center">
+  <img src="https://github.com/AdityaPagare619/assets/blob/main/banners/headline-dashboard.png?raw=true"
+    alt="Aditya Pagare | AI/UX Dashboard" width="880"
+    style="border-radius:24px;box-shadow:0 10px 56px #00d9ff30;margin-bottom:22px;"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="280" align="center" valign="top">
+      <img src="https://github.com/AdityaPagare619/assets/blob/main/avatar/avatar-modern.gif?raw=true" width="160" style="border-radius:50%;box-shadow:0 2px 16px #21212140;">
+      <br>
+      <img src="https://img.shields.io/badge/Engineer-Innovator-blue?style=for-the-badge&logo=figma"/>
+      <img src="https://img.shields.io/badge/System-Designer-purple?style=for-the-badge&logo=css3"/>
+      <img src="https://img.shields.io/badge/AI-ML-specialist-gold?style=for-the-badge&logo=python"/>
+        <br>
+        <img src="https://github.com/AdityaPagare619/assets/blob/main/ui/connect-btn.png?raw=true" width="120">
+    </td>
+    <td width="520" valign="top">
+      <h2>
+        <img src="https://github.com/AdityaPagare619/assets/blob/main/ui/rocket-anim.gif?raw=true" width="28"> Bridging Hardware & Software | Designing Scalable Digital Experiences
+      </h2>
+      <p style="color:#666;font-size:18px;line-height:1.3em;">
+        <b>✨ Pune, India ✦ Class of 2026 ✦ Building the Future with AI, Robotics, & Modern UI/UX ✦ Open Source Lover ✦ Top Skill: Blending Tech with Art</b>
+      </p>
+      <div>
+        <a href="https://adityapagare619.framer.website/">
+          <img src="https://github.com/AdityaPagare619/assets/blob/main/ui/portfolio-btn.png?raw=true" width="110" />
+        </a>
+        <a href="https://www.linkedin.com/in/aditya-pagare-891606285/">
+          <img src="https://github.com/AdityaPagare619/assets/blob/main/ui/linkedin-btn.png?raw=true" width="110" />
+        </a>
+        <a href="mailto:adityapagare619@gmail.com">
+          <img src="https://github.com/AdityaPagare619/assets/blob/main/ui/email-btn.png?raw=true" width="110" />
+        </a>
+        <a href="https://www.instagram.com/rockstaradi_619/">
+          <img src="https://github.com/AdityaPagare619/assets/blob/main/ui/instagram-btn.png?raw=true" width="110" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- Section Divider -->
+<br>
+<p align="center">
+  <img src="https://github.com/AdityaPagare619/assets/blob/main/banners/divider-glass.png?raw=true"
+    width="680" alt="section divider">
+</p>
+
+<!-- Next block: About/Skills to follow ... -->
 <div align="center">
 
 # 👋 Hi there, I'm Aditya Pagare!
