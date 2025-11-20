@@ -1,209 +1,202 @@
+<!-- HEADER / HERO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=header" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/AdityaPagare619.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,7957d5,00d9ff,0d1117&height=180&section=header&text=Aditya%20Pagare&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
   
-  <br/>
-  
-  <h1 style="color: #E1E1E6; font-size: 40px; margin-bottom: 0;">👋 Hi, I'm <span style="color: #00D9FF;">Aditya Pagare</span></h1>
-  
-  <!-- Optimized Typing SVG: Width increased to 500 to stop text cutting -->
+  <!-- Typing Animation Widget -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7FDBCA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Innovative+Engineer+%7C+System+Designer;Bridging+Hardware+%26+Software;AI+Enthusiast+%7C+Robotics+Developer;Designing+Scalable+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Design.+Build.+Innovate.;Bridging+Hardware+%26+Software+via+AI;System+Designer+%7C+Robotics+%7C+UI%2FUX;Crafting+Digital+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- BENTO GRID - ROW 1: PROFILE & ANALYTICS -->
 <div align="center">
-    <a href="https://adityapagare619.framer.website/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
-    </a>
-    <a href="https://www.linkedin.com/in/aditya-pagare-891606285/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-    </a>
-    <a href="mailto:adityapagare619@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-    </a>
-    <a href="https://github.com/AdityaPagare619">
-        <img src="https://img.shields.io/github/followers/AdityaPagare619?logo=github&style=for-the-badge&color=00D9FF&labelColor=181717" height="35" />
-    </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"I bridge the gap between hardware and software to create holistic tech solutions."</i> 🔌💻
-</div>
-
-<hr style="border: 1px solid #30363d;" />
-
-<h2 align="center">⚡ Innovation Hub</h2>
-
-<!-- Using a Table layout to create a "Split View" card effect -->
-<div align="center">
-<table>
+<table border="0" width="100%">
   <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <br/>
-      <ul>
-        <li>🎓 <b>BTech in E&TC</b> at Nutan College of Engineering (2026)</li>
-        <li>🔭 Focusing on <b>AI-Powered Agriculture & Robotics</b></li>
-        <li>💡 Passionate about <b>System Architecture & UI/UX</b></li>
-        <li>🌱 Open Source contributor & Tech explorer</li>
-        <li>📍 Based in <b>Pune, India</b></li>
-      </ul>
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=AdityaPagare619&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <!-- CARD 1: PROFILE INTRO (IOS STYLE) -->
+    <td width="60%" valign="top">
+      <div align="center">
+        <br/>
+        <img src="https://github.com/AdityaPagare619.png" width="120" style="border-radius: 50%; border: 3px solid #00D9FF; box-shadow: 0px 0px 20px rgba(0, 217, 255, 0.5);">
+        <br/>
+        <h3>👋 The Architect of Things</h3>
+        <p align="left">
+          I am an <b>Innovative Engineer</b> based in Pune, India. Unlike traditional devs, I don't just write code; I make code interact with the physical world.
+          <br/><br/>
+          <b>🚀 My Core Philosophy:</b><br/>
+          <i>"Software has no limit, but Hardware gives it a body."</i>
+          <br/><br/>
+          🔭 <b>Focus:</b> Advanced Computer Vision, IoT Ecosystems, & Scalable System Design.<br/>
+          🎓 <b>Education:</b> B.Tech in E&TC (2026) | Nutan College of Engineering.
+        </p>
+        <!-- Quick Action Buttons -->
+        <a href="https://adityapagare619.framer.website/">
+           <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white&border=1px_solid_333" />
+        </a>
+        <a href="https://www.linkedin.com/in/aditya-pagare-891606285/">
+           <img src="https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </div>
     </td>
-    <td valign="top" width="50%">
-      <h3>🚀 Current Focus</h3>
+    
+    <!-- CARD 2: GITHUB STATS WIDGET -->
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=AdityaPagare619&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7957d5&count_private=true" width="100%" />
       <br/>
-      <code>
-      def current_status():
-          return {
-              "learning": ["Generative AI", "Edge Computing"],
-              "building": "Smart IoT Ecosystems",
-              "reading": "System Design Scalability",
-              "mood": "🚀 Innovation Mode On"
-          }
-      </code>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPagare619&theme=tokyonight&hide_border=true&background=0d1117&stroke=7957d5&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%" />
     </td>
   </tr>
 </table>
 </div>
 
-<br/>
-
-<h2 align="center">🛠️ The Arsenal (Tech Stack)</h2>
-
+<!-- BENTO GRID - ROW 2: TECH STACK DOCK -->
 <div align="center">
-  <!-- SkillIcons are modern, colorful and interactive -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,arduino,raspberrypi&perline=8" />
-    </a>
-  </p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,anaconda&perline=7" />
-    </a>
-  </p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase&perline=8" />
-    </a>
-  </p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,framer,linux&perline=7" />
-    </a>
-  </p>
+  <h2>🛠️ The Engineering Arsenal</h2>
+  <table border="0" width="100%">
+    <tr>
+      <!-- LANGUAGE DOCK -->
+      <td width="50%" align="center">
+        <h3>💻 Core Logic</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark" />
+        </a>
+      </td>
+      <!-- AI DOCK -->
+      <td width="50%" align="center">
+        <h3>🤖 AI & Brains</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,pandas,numpy&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- HARDWARE DOCK -->
+      <td width="50%" align="center">
+        <h3>🔌 Hardware & IoT</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github&theme=dark" />
+        </a>
+      </td>
+      <!-- DESIGN DOCK -->
+      <td width="50%" align="center">
+        <h3>🎨 UI & Backend</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,figma&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<h2 align="center">🧠 Featured Projects</h2>
+<!-- FEATURED PROJECTS - APP STORE CARD STYLE -->
+<h2 align="center">🚀 Featured Innovations</h2>
 
-<!-- Card Layout for Projects using Tables -->
-<table border="0">
+<div align="center">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <!-- PROJECT 1 -->
+    <td width="50%">
       <h3 align="center">🌾 AI Plant Health Monitor</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white"/>
+         <img src="https://img.shields.io/badge/IoT-Smart_Agri-00D9FF?style=flat-square"/>
+         <img src="https://img.shields.io/badge/AI-Computer_Vision-7957d5?style=flat-square"/>
       </div>
       <br/>
-      <p align="center">
-        Real-time agriculture monitoring system detecting diseases via CNN and monitoring soil/temp data via IoT sensors.
-      </p>
+      <ul>
+        <li><b>What:</b> An intelligent system for real-time crop disease detection.</li>
+        <li><b>Tech:</b> Python, TensorFlow (CNN), OpenCV, IoT Sensors.</li>
+        <li><b>Highlight:</b> Automated care recommendations & Responsive Dashboard.</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
+    <!-- PROJECT 2 -->
+    <td width="50%">
       <h3 align="center">😊 Emotion Detection CNN</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=keras&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Deep_Learning-CNN-FF5722?style=flat-square"/>
+         <img src="https://img.shields.io/badge/Accuracy-89%25-success?style=flat-square"/>
       </div>
       <br/>
-      <p align="center">
-        Advanced facial emotion recognition system capable of classifying 7 different emotions in real-time with 89% accuracy.
-      </p>
+      <ul>
+        <li><b>What:</b> Facial emotion recognition system for edge devices.</li>
+        <li><b>Tech:</b> Python, Keras, TensorFlow.</li>
+        <li><b>Highlight:</b> Detects 7 distinct emotions via webcam in real-time.</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <!-- PROJECT 3 -->
+    <td width="50%">
       <h3 align="center">🎮 Gesture Controller</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+         <img src="https://img.shields.io/badge/HCI-No_Touch-4CAF50?style=flat-square"/>
+         <img src="https://img.shields.io/badge/Lib-MediaPipe-blue?style=flat-square"/>
       </div>
       <br/>
-      <p align="center">
-        Hand tracking system for recording gestures and controlling computer interfaces without physical contact.
-      </p>
+      <ul>
+        <li><b>What:</b> Control your PC using only hand gestures.</li>
+        <li><b>Tech:</b> OpenCV, MediaPipe, Python.</li>
+        <li><b>Highlight:</b> Low-latency tracking for gaming & accessibility.</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
+    <!-- PROJECT 4 -->
+    <td width="50%">
       <h3 align="center">🖱️ AI Virtual Mouse</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/HCI-00D9FF?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Automation-FFCA28?style=flat&logo=robotframework&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Vision-Automation-E91E63?style=flat-square"/>
+         <img src="https://img.shields.io/badge/Input-Touchless-purple?style=flat-square"/>
       </div>
       <br/>
-      <p align="center">
-        Touchless mouse and keyboard control using fingertip tracking, optimized for accessibility and futuristic interaction.
-      </p>
+      <ul>
+        <li><b>What:</b> A futuristic mouse replacement using fingertip tracking.</li>
+        <li><b>Tech:</b> Python, AutoPy, Computer Vision.</li>
+        <li><b>Highlight:</b> Click, Scroll, and Drag support without hardware.</li>
+      </ul>
     </td>
   </tr>
 </table>
+</div>
 
+<!-- ACTIVITY GRAPH (THE SNAKE/WAVE EFFECT) -->
 <br/>
-
-<h2 align="center">📊 Coding Activity & Analytics</h2>
-
-<!-- Snake Animation: This generates a snake game played on your contribution graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPagare619&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&color=00D9FF" width="100%" alt="Activity Graph" />
+  <h2>📉 Coding Frequency</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPagare619&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=7957d5&point=ffffff&area=true" width="100%" />
+</div>
+
+<!-- CERTIFICATIONS TICKER -->
+<br/>
+<div align="center">
+  <h3>🏆 Hall of Fame</h3>
+  <code>Deloitte Tech Simulation</code> • <code>IBM Data Science & AI</code> • <code>IIT Kharagpur DBMS</code>
 </div>
 
 <br/>
 
+<!-- FOOTER / CONTACT WIDGET -->
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AdityaPagare619&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="180" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPagare619&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="180" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPagare619&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak" />
-</div>
-
-<br/>
-
-<h2 align="center">🏆 Certifications</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Deloitte-Technology_Job_Simulation-black?style=for-the-badge&logo=deloitte&logoColor=green" />
-  <img src="https://img.shields.io/badge/IBM-Data_Science_&_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IIT_Kharagpur-DBMS-B31B1B?style=for-the-badge&logo=iit&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- Footer with Waving Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,00d9ff,7957d5,0d1117&height=150&section=footer" width="100%" />
   
-  <h3>🤝 Let's Build the Future Together!</h3>
-  <p>Always open to collaborating on AI, Robotics, and Creative Dev projects.</p>
-  
-  <a href="https://www.instagram.com/rockstaradi_619/">
-    <img src="https://img.shields.io/badge/Instagram-@rockstaradi__619-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="mailto:adityapagare619@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.instagram.com/rockstaradi_619/">
+          <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/aditya-pagare-891606285/">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p><i>"Innovation distinguishes between a leader and a follower."</i> — Steve Jobs</p>
+  <p><b>⭐ Star my repositories if you find them cool!</b></p>
 </div>
