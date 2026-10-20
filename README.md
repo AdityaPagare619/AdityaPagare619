@@ -1,89 +1,115 @@
 <div align="center">
-  <h1 align="center">Aditya Pagare</h1>
-  <p align="center"><b>Systems Architect | Edge AI Engineer | Full-Stack Builder</b></p>
-  
-  <p align="center">
-    <a href="https://adityapagare619.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"></a>
-    <a href="https://www.linkedin.com/in/aditya-pagare-891606285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:adityapagare619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · adityapagare619</sub></p>
+<h1>Aditya Pagare</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Hey, Adi here with a passion for innovative ideas. Let's endure together to make these boring world fascinating!</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Pune, India</sub></p>
+<p><a href="https://github.com/adityapagare619">GitHub</a> &nbsp;·&nbsp; <a href="https://adityapagare619.framer.website/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/132090983?u=68dce983789eb3844b2ccf9244a3899c2539a18c&amp;v=4" width="180" alt="Aditya Pagare GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<h2>What teams can evaluate quickly</h2>
 
-## 🏴‍☠️ The Engineering Ethos
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · HTML · Rust</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>42 repositories · 13 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>797 contributions · 78 active days</p></td>
+</tr>
+</table>
 
-> *"Lazy on platforms. Relentless in the codebase. Less talk, more functions."*
+<p><sub>Hey, Adi here with a passion for innovative ideas. Let's endure together to make these boring world fascinating!</sub></p>
 
-I am a self-driven, self-taught engineer who builds realistic, functioning systems. I don't care about buzzwords, and I don't box myself into a single domain. Real-world problems require cross-domain execution—whether that means writing low-level Rust for on-device AI, designing scalable SQL schemas, deploying offline-first mobile apps, or crafting functional UI/UX. I learn what needs to be learned, and I build what needs to be built.
+<h2>Proof at a glance</h2>
 
-**Core Arsenal:** `Rust` `C++` `Python` `TypeScript` `React/Next.js` `Bun` `PyTorch` `llama.cpp` `IoT/Hardware`
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>42</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>797</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Aditya Pagare GitHub proof metrics" />
+</picture>
+</p>
 
-## 🏗️ The Work (Top 10 Deployments)
+<h2>Selected work</h2>
 
-These repositories represent actual engineering problems solved across multiple domains—from edge ML and hardware simulations to full-stack EdTech and local privacy-first AI.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&repos=adityapagare619%2Fclosed-claw-assistant%2Cadityapagare619%2Fllm-academy-course%2Cadityapagare619%2Faura%2Cadityapagare619%2Faditya-portfolio&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&repos=adityapagare619%2Fclosed-claw-assistant%2Cadityapagare619%2Fllm-academy-course%2Cadityapagare619%2Faura%2Cadityapagare619%2Faditya-portfolio&v=recruiter-projects-1&mode=dark" width="100%" alt="Aditya Pagare selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/AdityaPagare619/closed-claw-assistant">closed-claw-assistant</a></h3>
+<p>Closed Claw - Secure Local AI Assistant for Android. Uses Sarvam-1 2B + voice models. Auto call pickup, WhatsApp monitoring, calendar management. Zero</p>
+<p><sub>Python · ⭐ 4 · 🍴 0</sub></p>
+<p><a href="https://github.com/AdityaPagare619/closed-claw-assistant">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-### 1. AURA v4 (Core Engine) — *Privacy-First On-Device AGI*
-* **Domain:** Edge AI & Systems Programming
-* **Tech:** `Rust`, `llama.cpp`, `Qwen-3`, `Termux`, `Android`
-* **The Build:** A production-grade AI assistant running entirely on Android hardware with zero cloud dependency. Implements a ReAct loop, 4-tier memory, and active inference engine. Built to solve the massive privacy vulnerabilities and internet-dependency of modern AI assistants.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AdityaPagare619/llm-academy-course">llm-academy-course</a></h3><p>LLM Academy — build a transformer from nothing. 14 hands-on modules, construction labs, Builder's Wall rewards. NOT affiliated with the LEGO Group.</p><p><sub>HTML · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AdityaPagare619/aura">aura</a></h3><p>AURA v4 — Production-grade, privacy-first, on-device Android AI assistant. Powered by Qwen-3 (llama.cpp), built in Rust, runs entirely on your phone v</p><p><sub>Rust · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AdityaPagare619/aditya-portfolio">aditya-portfolio</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-### 2. Rankak Production Ecosystem — *V2.0 EdTech Architecture*
-* **Domain:** Full-Stack & System Architecture
-* **Tech:** `Next.js`, `Node.js`, `MySQL`, `AI Engine`
-* **The Build:** A comprehensive, scalable monorepo for a smart examination platform. Engineered the secure backend, AI integration, and optimized Next.js landing pages to handle end-to-end test management, solving the rigidity of legacy exam platforms.
+<h2>Technical toolkit</h2>
 
-### 3. Closed Claw — *Secure Local Automation*
-* **Domain:** Mobile Automation & ML
-* **Tech:** `Sarvam-1 2B`, `Local Voice Models`, `Android`
-* **The Build:** A secure automation system that monitors WhatsApp, manages calendars, and handles call pickups locally. Built because automating personal tasks shouldn't require trading your private data to cloud providers.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Aditya Pagare technology stack" />
+</picture>
+</p>
 
-### 4. Rail Sentry Infrastructure — *Safety Simulation & Monitoring*
-* **Domain:** Infrastructure & Simulation
-* **Tech:** `Python`, `Computer Vision`, `Data Processing`
-* **The Build:** An end-to-end simulation and watch system (`rail-sentry-watch` / `simulation-rails`) to model railway metrics and detect track anomalies. A proof-of-concept for replacing manual, error-prone railway inspections with automated data analysis.
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>46% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>22% of public code</sub></td>
+<td width="20%" align="center"><strong>Rust</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
 
-### 5. Aura Mobile Native — *Offline-First Native Android*
-* **Domain:** Mobile & Web-to-Native Bridging
-* **Tech:** `Capacitor`, `React`, `Bun`, `Android Native`
-* **The Build:** Designed to eliminate the performance gap in hybrid apps. This high-performance client was natively verified for zero-bug deployments, proving that web technologies can achieve native-level execution when properly architected.
+<h2>Consistency signal</h2>
 
-### 6. JEE Smart AI Platform (v5) — *Advanced Test Prep*
-* **Domain:** Education & Applied AI
-* **Tech:** `Advanced AI Engine`, `Web Stack`
-* **The Build:** A highly specialized testing environment focusing on AI-driven insights for competitive exams. Combines advanced algorithmic test generation with real-time analytics to adapt to student performance dynamically.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=adityapagare619&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132090983%3Fu%3D68dce983789eb3844b2ccf9244a3899c2539a18c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Aditya Pagare contribution activity" />
+</picture>
+</p>
 
-### 7. BFRB Edge ML Model — *On-Device Healthcare AI*
-* **Domain:** Healthcare & Edge Computing
-* **Tech:** `TensorFlow Lite (TFLite)`, `Edge ML`
-* **The Build:** A finalized TFLite machine learning model designed to detect and manage Body-Focused Repetitive Behaviors (BFRB) on edge devices. Focuses on low-latency, private, on-device health monitoring without cloud latency.
+<hr />
 
-### 8. Advanced AI Engine Production — *Core Intelligence Services*
-* **Domain:** Backend Intelligence
-* **Tech:** `Python`, `API Architecture`, `ML Frameworks`
-* **The Build:** The standalone, production-ready AI brain (`ai-engine-adv-production`) used across various platforms (like Rankak and JEE Smart AI). Centralizes machine learning models into a highly available, robust microservice.
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/adityapagare619">GitHub</a><br /><a href="https://adityapagare619.framer.website/">Website</a></td>
+</tr>
+</table>
 
-### 9. Smart Database System — *Resilient Data Architecture*
-* **Domain:** Backend Architecture
-* **Tech:** `SQL`, `Database Design`
-* **The Build:** An architecture-focused repository aimed at structuring scalable, relational data systems. Ensures data integrity and fast query times for high-traffic platforms, emphasizing that AI is useless without a solid data foundation.
-
-### 10. BookieHub & UI/UX Suite — *Interface & Recommendation*
-* **Domain:** UI/UX & Recommendation Systems
-* **Tech:** `Figma`, `Frontend Frameworks`, `ML Recommendations`
-* **The Build:** Combines clean, modern interface design (`codsoft-ui-ux`) with an AI-powered book recommendation engine. Proves that I don't just build the backend logic—I also construct the human-computer interfaces required to make those systems usable.
-
----
-
-## 📈 System Analytics
-
-<div align="left">
-  <a href="https://github.com/AdityaPagare619">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaPagare619&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=a0a0a0&icon_color=00D9FF" alt="GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/AdityaPagare619">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPagare619&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=a0a0a0" alt="Top Languages" height="150" />
-  </a>
-</div>
+<p align="center"><sub>Aditya Pagare · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
